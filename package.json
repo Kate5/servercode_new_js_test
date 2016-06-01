@@ -1,0 +1,12 @@
+{
+  "name": "jscodetrunner-servercode",
+  "version": "1.0.0",
+  "scripts": {
+    "debug": "coderunner debug",
+    "deploy": "coderunner deploy"
+  },
+  "devDependencies": {
+    "backendless-coderunner": ">=1.0.0"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "backendless": {
+    "apiServer": "https://api.backendless.com",
+
+    "msgBroker": {
+      "host": "cl.backendless.com",
+      "port": 6379
+    }
+  },
+
+  "app": {
+    "id": "2B2F0616-E766-0A0E-FF20-08E45BDD3200",
+    "secretKey": "01B112E0-D49F-615C-FFFD-625828B54800",
+    "version": "v1",
+
+    "files": [
+      "app/**"
+    ]
+  }
+}
